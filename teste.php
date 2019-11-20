@@ -1,2 +1,2 @@
 <?php phpinfo(); ?>
-<?="teste dedo de deus"?>
+<?='ola'?>
